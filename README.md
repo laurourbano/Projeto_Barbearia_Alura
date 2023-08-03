@@ -51,10 +51,4 @@ Contribuições são bem-vindas! Caso encontre algum bug, tenha sugestões de me
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Contato
-
-Em caso de dúvidas ou sugestões, você pode entrar em contato com a equipe da Barbearia Alura pelo email: contato@barbeariaalura.com.br.
-
----
-
 Este README foi criado com o objetivo de fornecer uma visão profissional do projeto e oferecer as informações essenciais para que outros desenvolvedores possam colaborar e entender o contexto do trabalho realizado.
